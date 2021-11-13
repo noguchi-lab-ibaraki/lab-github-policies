@@ -3,12 +3,12 @@
 - 新メンバーは`noguchi-lab-all`に追加する
 - *Owner* ロールの取得は申請制、自分のセキュリティ管理に自信がある方に付与する
 - 2段階認証が必須
-- *Repository* と *Issuse* の削除が禁止されている。
+- *Repository* と *Issuse* の削除が禁止されている。(Ownだけが削除できる)
 - 公開したい場合以外、*Repository* 全部 *private* にするべき
 - *Repository* のベース権限がnone
-- 卒業後メンバーの *Repository* はチーム`noguchi-lab-all`に *maintainer* レベル権限を付与する
+- 卒業後メンバーの *Repository* はチーム`noguchi-lab-all`に *maintain* レベル権限を付与する
 - 卒業後、学生Ownerのロールはmemberまたはoutside-collaboratorに変更する
-- ゼミ関連の *Repository* は基本`noguchi-lab-all`に *maintainer* レベルの権限を付与する
+- ゼミ関連の *Repository* は基本`noguchi-lab-all`に *maintain* レベルの権限を付与する
 - 共同作業必要の *Repository* は 共同作業者だけをInviteする。ただし、Ownerはどの *Repository* にもフルアクセスを所持している
 
 # マニュアル
